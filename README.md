@@ -1,8 +1,8 @@
-## 🚀 [앱 실행하기](https://lgw7126.github.io/antigravity-Pet119-app/)
+## 🚀 [앱 실행하기](https://lgw7126.github.io/Antigravity-Pet119-app/)
 
 # 🏥 Pet119 — 내 주변 동물병원 즉시 탐색
 
-> **🔗 실행 링크**: [https://lgw7126.github.io/antigravity-Pet119-app](https://lgw7126.github.io/antigravity-Pet119-app)
+> **🔗 실행 링크**: [https://lgw7126.github.io/Antigravity-Pet119-app](https://lgw7126.github.io/Antigravity-Pet119-app)
 
 ---
 
